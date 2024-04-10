@@ -1,0 +1,85 @@
+.estruc{
+    width: 1440px;
+    height: 10749.13px;
+    margin: auto;
+    border: 2px solid black;
+}
+.titulo{
+    width: 1438px;
+    height: 780px;
+    border: 1px solid black;
+    background-color: rgb(238, 232, 232);
+}
+.tl{
+    width: 1435px;
+    height: 160px;
+    background-color: white;
+
+   position: absolute;
+    top: 7rem;
+}
+.tl1{
+    width: 1435px;
+    height: 90px;
+    background-color: white;
+
+    position: absolute;
+    top: 69rem;
+}
+.cuamora{
+    width: 1438px;
+    height: 625px;
+    background-color: blueviolet;
+}
+.cuablan{
+    width: 1438px;
+    height: 625px;
+}
+.cuamora2{
+    width: 1438px;
+    height: 625px;
+    background-color: rgb(181, 125, 234);
+}
+.cuaesque{
+    width: 1438px;
+    height: 1100px;
+    border: 1px solid black;
+
+}
+.cuamora3{
+    width: 1438px;
+    height: 300px;
+    background-color: rgb(181, 125, 234);
+}
+.cuablan1{
+    width: 1438px;
+    height: 600px;
+    border: 1px solid black;
+}
+.cuagris{
+    width: 1438px;
+    height: 500px;
+    border: 1px solid black;
+    background-color:  rgb(227, 223, 223);
+}
+.cuablan2{
+    width: 1438px;
+    height: 500px;
+    border: 1px solid black;
+}
+.cuablan3{
+    width: 1438px;
+    height: 250px;
+    border: 1px solid black;
+}
+.cuamora4{
+    width: 1438px;
+    height: 450px;
+    border: 1px solid black;
+    background-color: rgb(145, 45, 238);
+}
+.cuafinal{
+    width: 1438px;
+    height: 800px;
+    border: 1px solid black;
+}
